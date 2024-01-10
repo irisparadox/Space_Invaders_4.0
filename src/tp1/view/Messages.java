@@ -10,7 +10,7 @@ import tp1.logic.gameobjects.UCMShip;
  */
 public class Messages {
 
-	public static final String VERSION = "3.0";
+	public static final String VERSION = "4.0";
 
 	public static final String GAME_NAME = "Space Invaders";
 
